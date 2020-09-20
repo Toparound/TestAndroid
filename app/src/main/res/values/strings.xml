@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My TestApplication</string>
+    <string name="app_name">My Application</string>
+    <string name="hello_main_view">0</string>
 </resources>
